@@ -1,0 +1,11 @@
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.deps.json
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.runtimeconfig.json
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.runtimeconfig.dev.json
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.dll
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\bin\Debug\netcoreapp2.0\TechJobsConsole.pdb
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.csprojResolveAssemblyReference.cache
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.csproj.CoreCompileInputs.cache
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.AssemblyInfoInputs.cache
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.AssemblyInfo.cs
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.dll
+C:\Users\alesc\OneDrive\LCunit3\src\TechJobsConsole\obj\Debug\netcoreapp2.0\TechJobsConsole.pdb
